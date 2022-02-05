@@ -12,7 +12,7 @@ var dbController = {
                 return
             }
             db = database.db("classified-app")
-            console.log("Mongo db connected")
+            console.log("Mongo db connected.")
         })
     },
 
